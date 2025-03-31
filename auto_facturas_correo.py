@@ -8,7 +8,7 @@ ruta_excel_proveedores = r'C:\ruta\Proveedores.xlsx'
 ruta_excel_correos = r'C:\ruta\Correos.xlsx'
 
 # Carpeta base de proveedores
-ruta_base_proveedores = r'C:\ruta\proveedores'
+ruta_base_proveedores = r'C:\ruta\proveedores' #cambiar
 
 # Leer el archivo de Proveedores y el de Correos
 df_proveedores = pd.read_excel(ruta_excel_proveedores)
