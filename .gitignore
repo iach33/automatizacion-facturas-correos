@@ -1,3 +1,5 @@
 #Virtual enviroment
 .venv/
 #
+.xlsx
+.txt
