@@ -1,0 +1,7 @@
+{
+    "ruta_excel_proveedores": "C:\\Users\\....Lista_proveedores.xlsx",
+    "ruta_excel_correos": "C:\\Users\\....Base_correos.xlsx",
+    "ruta_base_proveedores": "C:\\Users\\....PROVEEDORES",
+    "ruta_a_exportar":"output"
+  }
+  
